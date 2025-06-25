@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dr. 
+title: Dr. Liz Glenn
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Liz
+first_name: Liz (Elizabeth)
 last_name: Glenn
 
 # Status emoji
@@ -47,42 +47,33 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Data Science and Measurement
+- Emotion Regulation and Anxiety
+- Parent Mediated Interventions
+- Autism, Intellectual and Developmental Disabilities
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD School Psychology
+    institution: University of Oregon
+    date_start: 2018-09-01
+    date_end: 2023-09-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      I completed my PhD in School Psychology at the University of Oregon (APA-accredited). My graduate advisors were Dr. Laura Lee McIntyre and Dr. Nicole Guiliani. My dissertation focused on how parent-child emotion regulation processes dictate parent and child mental health in preschoolers with developmental delays. Clinical training included providing comprehensive assessments across school and clinic settings, and providing evidence-based therapy in a range of settings (clinics, community programs, telehealth, schools) and populations (foster parents, neurodivergent individuals, LGBTQ+ teens)."""
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Psychology and Music
+    institution: Furman University
+    date_start: 2012-08-01
+    date_end: 2016-05-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Honors: Cum Laude
+      GPA: 3.5/4.0
+      Research Mentors: Dr. Erin Hahn, Dr. Kerstin Blomquist, and Dr. Cinnamon Stetler. 
+      Primary instrument: Voice (Mezzo-Soprano).
+
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
