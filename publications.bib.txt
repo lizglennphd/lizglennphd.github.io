@@ -1,0 +1,53 @@
+@article{gomez2024professionals,
+  title={Professionals’ perspectives on service delivery: The impact of COVID-19 on early childhood special education providers},
+  author={Gomez, Douglas and Kunze, Megan and Glenn, Elizabeth and Todis, Bonnie and Kelley, Kandyce and Karns, Christina M and Glang, Ann and McIntyre, Laura Lee},
+  journal={Topics in Early Childhood Special Education},
+  volume={44},
+  number={2},
+  pages={115--125},
+  year={2024},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@article{glenn2023self,
+  title={Self-directed web-based parent-mediated interventions for autistic children: A systematic review},
+  author={Glenn, Elizabeth and Taiwo, Abiola and Arbuckle, Stacy and Riehl, Hannah and McIntyre, Laura Lee},
+  journal={Review Journal of Autism and Developmental Disorders},
+  volume={10},
+  number={3},
+  pages={505--522},
+  year={2023},
+  publisher={Springer US New York}
+}
+
+@article{karns2022seeking,
+  title={Seeking out social learning: online self-education in parents of children with intellectual and developmental disabilities},
+  author={Karns, Christina M and Todis, Bonnie and Glenn, Elizabeth and Glang, Ann and Wade, Shari L and Riddle, Ilka and McIntyre, Laura Lee},
+  journal={Intellectual and Developmental Disabilities},
+  volume={60},
+  number={4},
+  pages={303--315},
+  year={2022},
+  publisher={The American Association on Intellectual and Developmental Disabilities}
+}
+
+@article{kunze2023parenting,
+  title={Parenting young children with developmental disabilities: Experiences during the COVID-19 pandemic in the US},
+  author={Kunze, Megan and Gomez, Douglas and Glenn, Elizabeth and Todis, Bonnie and Riddle, Ilka and Karns, Christina M and Glang, Ann and McIntyre, Laura Lee},
+  journal={Journal of Childhood, Education \& Society},
+  volume={4},
+  number={2},
+  pages={156--175},
+  year={2023},
+  publisher={Journal of Childhood, Education \& Society}
+}
+
+@article{waters2025unique,
+  title={Unique and shared influences of anxiety and ADHD on the behavioral profile of autism in early childhood},
+  author={Waters, Diana K and Baranek, Grace T and Glenn, Elizabeth and Riehl, Hannah and DeMoss, Lauren and Dawson, Geraldine and Carpenter, Kimberly LH},
+  journal={Frontiers in Child and Adolescent Psychiatry},
+  volume={4},
+  pages={1585507},
+  year={2025},
+  publisher={Frontiers Media SA}
+}
