@@ -9,10 +9,6 @@ name_pronunciation: ''
 first_name: Liz (Elizabeth)
 last_name: Glenn
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -70,7 +66,7 @@ skills:
     items:
       - name: R - tidyverse
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
@@ -78,28 +74,26 @@ skills:
         icon: chart-bar
       - name: Statistical Modelling
         description: ''
-        percent: 40
+        percent: 75
         icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Triathalon
         description: ''
-        percent: 60
+        percent: 50
         icon: person-simple-walk
       - name: Hiking
         description: ''
-        percent: 100
+        percent: 70
         icon: cat
       - name: Baking
         description: ''
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
 
 
 ---
