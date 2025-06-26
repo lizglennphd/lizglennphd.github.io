@@ -16,7 +16,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Quantitative Scientist
+role: Statistical Consultant
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -77,27 +77,8 @@ skills:
         percent: 75
         icon: circle-stack
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Triathalon
-        description: ''
-        percent: 50
-        icon: person-simple-walk
-      - name: Hiking
-        description: ''
-        percent: 70
-        icon: cat
-      - name: Baking
-        description: ''
-        percent: 80
-        icon: camera
-
-
-
 ---
 
 ## About Me
 
- I am a quantatative clinical scientist and Licensed Psychologist in Colorado. I am skilled in using advanced data science and statistical methods to support precision measurement in research and offer consulting services. My research interests broadly pertain to supporting wellbeing among neurodiverse youth and their families, specifically via strategies that promote individual and family-level emotion regulation and mental health. 
+ I am a quantatative clinical scientist and Licensed Psychologist based in Denver, Colorado. I offer data and statistical consultation services for companies and researchers. I am skilled in using advanced data science and statistical methods to support precision measurement in research. My research interests broadly pertain to supporting wellbeing among neurodiverse youth and their families, specifically via strategies that promote individual and family-level emotion regulation and mental health. 
