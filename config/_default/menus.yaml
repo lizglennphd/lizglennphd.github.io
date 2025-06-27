@@ -11,11 +11,11 @@ main:
     url: /consulting
     weight: 12
   - name: Education and Experience
-    url: experience/
+    url: /experience
     weight: 14
   - name: Publications
-    url: /#papers
+    url: /papers
     weight: 16
   - name: R Projects
-    url: projects/
+    url: /projects
     weight: 30
