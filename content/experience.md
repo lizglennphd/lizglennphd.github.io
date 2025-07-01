@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      username: admin
+      username: lizg
     design:
       # Hugo date format
       date_format: 'January 2006'
@@ -21,7 +21,7 @@ sections:
   - block: resume-skills
     content:
       title: Technical Skills
-      username: admin
+      username: lizg
     design:
       show_skill_percentage: false
   - block: markdown
