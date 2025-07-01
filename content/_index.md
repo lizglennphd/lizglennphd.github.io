@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+  - id: consulting
     content:
       title: 'Consultation Services'
       subtitle: ''
