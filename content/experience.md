@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2023-10-24
+date: 2025-07-01
 type: landing
 
 design:
@@ -24,5 +24,8 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-
+  -block: cv
+    button:
+    text: Download CV
+    url: uploads/Research CV.pdf
 ---

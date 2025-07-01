@@ -36,16 +36,7 @@ sections:
       subtitle: ''
       text: 'TEXT HERE'
     design:
-      columns: '1'
+      columns: '2'
 
-  - block: collection
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+
 ---
