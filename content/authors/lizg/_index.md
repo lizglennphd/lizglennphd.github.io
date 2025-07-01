@@ -43,7 +43,9 @@ education:
     date_start: 2018-09-01
     date_end: 2023-09-15
     summary: |
-      I completed my PhD in School Psychology at the University of Oregon (APA-accredited). My graduate advisors were Dr. Laura Lee McIntyre and Dr. Nicole Guiliani. My dissertation focused on how parent-child emotion regulation processes dictate parent and child mental health in preschoolers with developmental delays. Clinical training included providing comprehensive assessments across school and clinic settings, and providing evidence-based therapy in a range of settings (clinics, community programs, telehealth, schools) and populations (foster parents, neurodivergent individuals, LGBTQ+ teens).
+      I completed my PhD in School Psychology at the University of Oregon (APA-accredited). My graduate advisors were Dr. Laura Lee McIntyre and Dr. Nicole Guiliani. My dissertation focused on how parent-child emotion regulation processes dictate parent and child mental health in preschoolers with developmental delays. 
+      
+      <p> My clinical training included providing comprehensive assessments across school and clinic settings, and providing evidence-based therapy in a range of settings (clinics, community programs, telehealth, schools) and populations (foster parents, neurodivergent individuals, LGBTQ+ teens). </p>
     button:
       text: 'Dissertation'
       url: 'https://scholarsbank.uoregon.edu/items/8881b142-ef6e-43f3-9ab8-7f1fba7f51cb'

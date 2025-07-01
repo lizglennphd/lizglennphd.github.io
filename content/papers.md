@@ -1,7 +1,7 @@
 ---
 
 title: 'Publications'
-date: 2024-05-19
+date: 2025-07-01
 type: landing
 
 sections:
