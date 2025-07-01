@@ -12,4 +12,7 @@ publishDate: '2025-06-25T21:27:19.340279Z'
 publication_types:
 - article-journal
 publication: '*Review Journal of Autism and Developmental Disorders*'
+
+url_pdf: 'https://link.springer.com/article/10.1007/s40489-022-00307-9'
+
 ---
