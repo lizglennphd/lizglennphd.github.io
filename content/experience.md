@@ -24,10 +24,10 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  -block: cv
+  - block: cv
     button:
-    text: Download CV
-    url: uploads/Research CV.pdf
+      text: Download CV
+      url: uploads/Research CV.pdf
 
 
 ---
