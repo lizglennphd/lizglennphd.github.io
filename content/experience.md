@@ -24,11 +24,6 @@ sections:
       username: lizg
     design:
       show_skill_percentage: false
-  - block: markdown
-    content:
-      title: CV
-      button:
-        text: Download CV
-        url: uploads/Research CV.pdf
+
 
 ---
