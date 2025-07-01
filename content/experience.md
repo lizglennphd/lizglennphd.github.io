@@ -25,13 +25,8 @@ sections:
     design:
       show_skill_percentage: false
   - block: markdown
-    id: CV
     content:
       title: CV
-      text: 
-
-
-
       button:
         text: Download CV
         url: uploads/Research CV.pdf
