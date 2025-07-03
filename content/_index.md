@@ -34,7 +34,7 @@ sections:
   - id: consulting
     content:
       title: 'Consultation Services'
-      text: 
+      text: '
       
       ### Advanced Statistical Analyses
         My main programming language is R as it is open source which supports reproducability, a part of the open science movement. R also allows me to create pipelines from data cleaning to data analysis to re-run analyses in an efficient, seamless, and reproducible manner. I am also familiar with other statistical software such as SPSS, SAS, and Mplus.
@@ -61,6 +61,6 @@ sections:
     - Discounted price available for graduate students and early career researchers ($50/hr).
     - Data Analysis projects resulting in a full manuscript usually take around 20 hours. 
     - Once a manuscript is submitted, I will not charge for minor edits during the revision process. If manuscript revisions require a major change in analytic or research approach, we may need to re-initiate a contract or invoice. 
-    - I can accept checks or online payment (3% processing fee)
+    - I can accept checks or online payment (3% processing fee)'
 
 ---
