@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Consulting Services
-    url: /#consulting
+    url: /consulting
     weight: 12
   - name: Education and Experience
     url: /experience
