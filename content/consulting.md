@@ -39,3 +39,5 @@ sections:
       - Data Analysis projects resulting in a full manuscript usually take around 20 hours. 
       - Once a manuscript is submitted, I will not charge for minor edits during the revision process. If manuscript revisions require a major change in analytic or research approach, we may need to re-initiate a contract or invoice. 
       - I can accept checks or online payment (3% processing fee)
+
+      ---
