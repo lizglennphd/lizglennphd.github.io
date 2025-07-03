@@ -1,6 +1,5 @@
 ---
 title: Consulting
-type: landing
 
 sections:
   - block: markdown

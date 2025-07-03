@@ -30,7 +30,11 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: consulting
-  - id: consulting
-
+  - block: collection
+    content:
+      title: Consultation
+      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      filters:
+        folders:
+          - pr
 ---
