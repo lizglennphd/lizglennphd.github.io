@@ -30,10 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
+  - block: consulting
   - id: consulting
-    content:
-      title: 'Consultation Services'
-
 
 ---
