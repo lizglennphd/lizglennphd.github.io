@@ -6,7 +6,7 @@ title: Dr. Liz Glenn
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Elizabeth
+first_name: Liz
 last_name: Glenn
 
 # Is this the primary user of the site?
