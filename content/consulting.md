@@ -15,7 +15,5 @@ sections:
           1. Numbered 
           2. List
           3. Test
-          
-            ### Headings test
-            [HyperLink Test](https://www.google.com)
+
 ---
