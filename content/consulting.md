@@ -9,7 +9,9 @@ sections:
       title: Consulting Services
       text: 
         My text goes here
+        <p>
         **bold test**
+        </p>
 
         1. Numbered 
         2. List
