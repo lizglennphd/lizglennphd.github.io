@@ -12,12 +12,10 @@ sections:
         <p>
         **bold test**
         </p>
-
           1. Numbered 
           2. List
           3. Test
           
-          ### Headings test
-
-          [HyperLink Test](https://www.google.com)
+            ### Headings test
+            [HyperLink Test](https://www.google.com)
 ---
