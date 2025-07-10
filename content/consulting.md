@@ -8,6 +8,10 @@ sections:
     content:
       title: My title
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      ## Heading 1
 
+      Test
+      
+      ## Heading 1
+      
+      Some text under the heading
 ---
