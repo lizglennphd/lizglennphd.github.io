@@ -1,5 +1,7 @@
 ---
 title: Consulting Services
+reading_time: false
+social: false
 ---
 
 ## Heading 1 
