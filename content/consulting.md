@@ -1,6 +1,5 @@
 ---
-title: Consulting
-type: landing
+title: Consulting Services
 ---
 
 ## Heading 1 
