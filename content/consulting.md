@@ -7,19 +7,25 @@ sections:
   - block: markdown
     id: specialties
     content:
-      title: Statistical Analysis and Data Science
-      icon: devicon/rstudio
+      title: Statistical Analysis and Data Science devicon/rstudio
       text: My main programming language is R. R is open source which supports reproducability, a part of the open science movement. R also allows me to create pipelines from data cleaning to data analysis to re-run analyses in an efficient, seamless, and reproducible manner. <p> I am also familiar with other statistical software such as SPSS, SAS, and Mplus. </p>
   - block: markdown
     id: statistics
     content:
       title: Advanced Statistical Analyses
       text: |
-        - Structural Equation Modelling: How do these variables influence each other? In these models, we can also use latent variable modelling to increase precision of our findings. This approach includes mediation and moderation models.
+        I am familiar with a range of statistical techniques to answer empirical research questions. Many of the following approaches are based on regression modelling, which is relies on certain types of data. I am also familiar with techniques for non-normally distributed or non-continuous data (for example, logistic regression). I often consult with researchers to ensure research questions are compatible with data, whether pre or post data collection. 
+
+        - Structural Equation Modelling (SEM): How do these variables influence each other? In these models, we can also use latent variable modelling to increase precision of our findings. This approach includes mediation and moderation models.
         - Latent Variable Modelling: How do individual data sources represent or measure larger theoretical concepts (latent variables)? Latent Variable Modelling includes Confirmatory Factor Analysis (CFA), meaning we are testing if certain items may represent subcategories, or subscales of an overall measure.
         - Latent Growth Modelling (Longitudinal Data): Are there changes in these variables over time? Do certain variables or interventions impact change? 
         - Latent Profile Analysis: Within this population, are there distinct groups based on certain characteristics (variables)?
+        - Meta-Analysis: How does a relationship between two variables, including an intervention and various outcomes, vary across research studies? How strong is this relationship?
 
+        **Other specialities:**
+        - Reliability Statistics (Kappa, ICC, Chronbach's alpha)
+        - Odds Ratios, Risk Ratios
+        - Specificity / Sensitivity (AOC)
 
 ---
 
