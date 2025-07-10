@@ -33,11 +33,11 @@ sections:
     content:
       title: Data Science
       text: |
-      - Data Visualization: Bringing data to life using graphics. There are many pre-exisiting packages built in R that maximize visual insights specific to the data type or analysis. I can adjust color schemes and font to match your institution or business branding.
-      - Data Cleaning: Converting data from data collection into variables that are useful in analyses.
-      - Data Missingness: There are many approaches to data missingness, which is often dependent on your data and analytic plan. I am familiar with a range of imputation methods to help create full datasets when needed, or the use of analytic approaches that account for missingness (FIML).
-      - Webscraping: Extracting data from online sources into a spreadsheet that can be used for decision making, data visualizations, or data analyses.
-      - Text-Based Data: Turning qualitative data into a quantitative format. This might include automated coding of free text response items in a survey, or short interview transcripts.
+        - Data Visualization: Bringing data to life using graphics. There are many pre-exisiting packages built in R that maximize visual insights specific to the data type or analysis. I can adjust color schemes and font to match your institution or business branding.
+        - Data Cleaning: Converting data from data collection into variables that are useful in analyses.
+        - Data Missingness: There are many approaches to data missingness, which is often dependent on your data and analytic plan. I am familiar with a range of imputation methods to help create full datasets when needed, or the use of analytic approaches that account for missingness (FIML).
+        - Webscraping: Extracting data from online sources into a spreadsheet that can be used for decision making, data visualizations, or data analyses.
+        - Text-Based Data: Turning qualitative data into a quantitative format. This might include automated coding of free text response items in a survey, or short interview transcripts.
 ---
 
 ## Specialties
