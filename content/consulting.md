@@ -7,13 +7,41 @@ sections:
   - block: markdown
     id: specialties
     content:
-      title: Specialties
-      text: My main programming language is R as it is open source which supports reproducability, a part of the open science movement. R also allows me to create pipelines from data cleaning to data analysis to re-run analyses in an efficient, seamless, and reproducible manner. <p> I am also familiar with other statistical software such as SPSS, SAS, and Mplus. </p>
+      title: Statistical Analysis and Data Science icon: devicon/rstudio
+      text: My main programming language is R. R is open source which supports reproducability, a part of the open science movement. R also allows me to create pipelines from data cleaning to data analysis to re-run analyses in an efficient, seamless, and reproducible manner. <p> I am also familiar with other statistical software such as SPSS, SAS, and Mplus. </p>
   - block: markdown
     id: statistics
     content:
       title: Advanced Statistical Analyses
-      text: Test text
+      text: |
+      - Structural Equation Modelling: How do these variables influence each other? In these models, we can also use latent variable modelling to increase precision of our findings. This approach includes mediation and moderation models.
+      - Latent Variable Modelling: How do individual data sources represent or measure larger theoretical concepts (latent variables)? Latent Variable Modelling includes Confirmatory Factor Analysis (CFA), meaning we are testing if certain items may represent subcategories, or subscales of an overall measure.
+      - Latent Growth Modelling (Longitudinal Data): Are there changes in these variables over time? Do certain variables or interventions impact change? 
+      - Latent Profile Analysis: Within this population, are there distinct groups based on certain characteristics (variables)?
+      
+        <p> Many of the above approaches are an advanced form of regression analysis, which is based on certain assumptions for the data. I am also familiar with other statistical tests that can answer research questions, even when the data is non-continuous or is not normally distributed. My consultations include ensuring that research questions are aligned with the data - either pre or post data collection. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---

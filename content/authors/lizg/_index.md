@@ -83,4 +83,4 @@ skills:
 
 ## About Me
 
- I am a quantatative clinical scientist and Licensed Psychologist based in Denver, Colorado. I offer data and statistical consultation services for researchers and buisinesses. I am skilled in using advanced data science and statistical methods to support precision measurement in research. My research interests broadly pertain to supporting wellbeing among neurodiverse youth and their families, specifically via strategies that promote individual and family-level emotion regulation and mental health. 
+ I am a quantatative clinical scientist and Licensed Psychologist based in Denver, Colorado. I offer data and statistical consultation services for researchers and buisinesses. I am skilled in using advanced data science and statistical methods to support precision measurement in research. My research interests broadly pertain to supporting wellbeing among neurodiverse youth and their families, specifically via strategies that promote individual and family-level emotion regulation and mental health.
