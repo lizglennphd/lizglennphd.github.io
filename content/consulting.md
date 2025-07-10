@@ -13,8 +13,7 @@ sections:
     id: statistics
     content:
       title: Advanced Statistical Analyses
-      text: 
-      - Structural Equation Modelling:` How do these variables influence each other? In these models, we can also use latent variable modelling to increase precision of our findings. This includes mediation and moderation models.  
+      text: -` Structural Equation Modelling:` How do these variables influence each other? In these models, we can also use latent variable modelling to increase precision of our findings. This includes mediation and moderation models.
       - Latent Variable Modelling (Confirmatory Factor Analysis):` How do individual data sources represent or measure larger theoretical concepts (latent variables)?
       - Latent Growth Curve Modelling:` Are there changes in these variables over time? Do certain variables or interventions impact change?
       - Latent Profile Analysis:` Within this population, are there distinct groups based on certain characteristics (variables)?
