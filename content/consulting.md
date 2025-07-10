@@ -14,7 +14,8 @@ sections:
     id: statistics
     content:
       title: Advanced Statistical Analyses
-      text: - Structural Equation Modelling: How do these variables influence each other? In these models, we can also use latent variable modelling to increase precision of our findings. This includes mediation and moderation models.  
+      text: Statistical Techniques include - 
+      - Structural Equation Modelling: How do these variables influence each other? In these models, we can also use latent variable modelling to increase precision of our findings. This includes mediation and moderation models.  
       - Latent Variable Modelling (Confirmatory Factor Analysis): How do individual data sources represent or measure larger theoretical concepts (latent variables)?
       - Latent Growth Curve Modelling: Are there changes in these variables over time? Do certain variables or interventions impact change?
       - Latent Profile Analysis: Within this population, are there distinct groups based on certain characteristics (variables)?
@@ -25,11 +26,8 @@ sections:
 
 ### Advanced Statistical Analyses
 
-
-
-
-
 **Other specialties:**
+
 - Reliability Statistics (Kappa, ICC, Chronbach's alpha)
 - Meta-Analysis (homogeneity, bias)
 
@@ -47,6 +45,6 @@ I use the tidyverse suite in R to make the best use of existing data.
 
 - Hourly Rate = $75/hr
 - Discounted price available for graduate students and early career researchers ($50/hr).
-- Data Analysis projects resulting in a full manuscript usually take around 20 hours. 
+- Data Analysis projects resulting in a full manuscript usually take around 20 hours.
 - Once a manuscript is submitted, I will not charge for minor edits during the revision process.
 - I can accept checks or online payment (3% processing fee).
