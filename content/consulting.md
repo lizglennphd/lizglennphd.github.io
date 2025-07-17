@@ -7,7 +7,7 @@ sections:
   - block: markdown
     id: specialties
     content:
-      title: Statistical Analysis and Data Science icon:devicon/rstudio
+      title: Statistical Analysis and Data Science
       text: My main programming language is R. R is open source which supports reproducability, a part of the open science movement. R also allows me to create pipelines from data cleaning to data analysis to re-run analyses in an efficient, seamless, and reproducible manner. <p> I am also familiar with other statistical software such as SPSS, SAS, and Mplus. </p>
   - block: markdown
     id: statistics
@@ -38,26 +38,16 @@ sections:
         - Data Missingness: There are many approaches to data missingness, which is often dependent on your data and analytic plan. I am familiar with a range of imputation methods to help create full datasets when needed, or the use of analytic approaches that account for missingness (FIML).
         - Webscraping: Extracting data from online sources into a spreadsheet that can be used for decision making, data visualizations, or data analyses.
         - Text-Based Data: Turning qualitative data into a quantitative format. This might include automated coding of free text response items in a survey, or short interview transcripts.
+- block: markdown
+    id: fees
+    content:
+      title: Fees
+      text: |
+      - Hourly Rate = $75/hr
+      - **Discounted rate** available for **graduate students** and **early career** researchers ($50/hr).
+      - Data Analysis projects resulting in a full manuscript usually take around 20 hours.
+      - Once a manuscript is submitted, I will not charge for minor edits during the revision process.
+      - I can accept checks or online payment (3% processing fee).
+
+
 ---
-
-## Specialties
-
-### Advanced Statistical Analyses
-
-**Other specialties:**
-
-- Reliability Statistics (Kappa, ICC, Chronbach's alpha)
-- Meta-Analysis (homogeneity, bias)
-
-### Data Science
-
-
-
-
-## Fees
-
-- Hourly Rate = $75/hr
-- Discounted price available for graduate students and early career researchers ($50/hr).
-- Data Analysis projects resulting in a full manuscript usually take around 20 hours.
-- Once a manuscript is submitted, I will not charge for minor edits during the revision process.
-- I can accept checks or online payment (3% processing fee).
