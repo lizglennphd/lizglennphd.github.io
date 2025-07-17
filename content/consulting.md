@@ -38,16 +38,16 @@ sections:
         - Data Missingness: There are many approaches to data missingness, which is often dependent on your data and analytic plan. I am familiar with a range of imputation methods to help create full datasets when needed, or the use of analytic approaches that account for missingness (FIML).
         - Webscraping: Extracting data from online sources into a spreadsheet that can be used for decision making, data visualizations, or data analyses.
         - Text-Based Data: Turning qualitative data into a quantitative format. This might include automated coding of free text response items in a survey, or short interview transcripts.
-- block: markdown
+  - block: markdown
     id: fees
     content:
       title: Fees
       text: |
-      - Hourly Rate = $75/hr
-      - **Discounted rate** available for **graduate students** and **early career** researchers ($50/hr).
-      - Data Analysis projects resulting in a full manuscript usually take around 20 hours.
-      - Once a manuscript is submitted, I will not charge for minor edits during the revision process.
-      - I can accept checks or online payment (3% processing fee).
+        - Hourly Rate = $75/hr
+        - **Discounted rate** available for **graduate students** and **early career** researchers ($50/hr).
+        - Data Analysis projects resulting in a full manuscript usually take around 20 hours.
+        - Once a manuscript is submitted, I will not charge for minor edits during the revision process.
+        - I can accept checks or online payment (3% processing fee).
 
 
 ---
