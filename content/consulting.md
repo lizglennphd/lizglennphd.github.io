@@ -37,25 +37,17 @@ I am familiar with a range of statistical techniques to answer empirical researc
 
 Bringing data to life using graphics. There are many pre-existing packages built in R that maximize visual insights specific to the data type or analysis. I can adjust color schemes and font to match your institution or business branding.
 
----
-
 #### ![Data Cleaning Icon](https://static.thenounproject.com/png/7541283-200.png) Data Cleaning
 
 Converting data from data collection into variables that are useful in analyses.
-
----
 
 #### ![Data Missingness Icon](https://static.thenounproject.com/png/7663595-200.png) Data Missingness
 
 There are many approaches to data missingness, which is often dependent on your data and analytic plan. I am familiar with a range of imputation methods to help create full datasets when needed, or the use of analytic approaches that account for missingness (FIML).
 
----
-
 #### ![Webscraping Icon](https://static.thenounproject.com/png/4627554-200.png) Webscraping
 
 Extracting data from online sources into a spreadsheet that can be used for decision making, data visualizations, or data analyses.
-
----
 
 #### ![Text-Based Data Icon](https://static.thenounproject.com/png/6049683-200.png) Text-Based Data
 
