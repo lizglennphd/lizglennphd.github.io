@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
 
 sections:
   - block: resume-biography-3
@@ -33,10 +33,10 @@ sections:
   - block: hero
     content:
       title: Consulting Services
-      text: Partner with Me 
+      text: Partner with me on your next research project! I partner with academic researchers, especially early career researchers, on behavioral and psychological scientific projects.
       primary_action:
-        text: Get Started
+        text: Learn more and Get Started
         url: /consulting
-        icon: bar_chart
+        icon: chart-simple
 ---
 

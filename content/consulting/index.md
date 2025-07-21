@@ -31,19 +31,15 @@ I am familiar with a range of statistical techniques to answer empirical researc
 
 ### Data Science
 
-<p><img src="https://static.thenounproject.com/png/7080751-200.png" alt="Data Visualization Icon" width="20"> <strong>Data Visualization:</strong> Bringing data to life using graphics. There are many pre-existing packages built in R that maximize visual insights specific to the data type or analysis. I can adjust color schemes and font to match your institution or business branding. </p>
+**Data Visualization**: Bringing data to life using graphics. There are many pre-existing packages built in R that maximize visual insights specific to the data type or analysis. I can adjust color schemes and font to match your institution or business branding.
 
-<p><img src="https://static.thenounproject.com/png/7541283-200.png" alt="Data Cleaning Icon" width="20" style="vertical-align:middle;"> <strong>Data Cleaning:</strong>
-Converting data from data collection into variables that are useful in analyses. </p>
+**Data Cleaning**: Converting data from data collection into variables that are useful in analyses.
 
-<p><img src="https://static.thenounproject.com/png/7663595-200.png" alt="Data Missingness Icon" width="20" style="vertical-align:middle;"> <strong>Data Missingness:</strong> There are many approaches to data missingness, which is often dependent on your data and analytic plan. I am familiar with a range of imputation methods to help create full datasets when needed, or the use of analytic approaches that account for missingness (FIML). </p>
+**Data Missingness:** There are many approaches to data missingness, which is often dependent on your data and analytic plan. I am familiar with a range of imputation methods to help create full datasets when needed, or the use of analytic approaches that account for missingness (FIML).
 
-<p><img src="https://static.thenounproject.com/png/4627554-200.png" alt="Webscraping Icon" width="20" style="vertical-align:middle;"> <strong>Webscraping:</strong>
-Extracting data from online sources into a spreadsheet that can be used for decision making, data visualizations, or data analyses. </p>
+**Webscraping**: Extracting data from online sointo a spreadsheet that can be used for decision making, data visualizations, or data analyses.
 
-<p><img src="https://static.thenounproject.com/png/6049683-200.png" alt="Text-Based Data Icon" width="20" style="vertical-align:middle;"> <strong>Text-Based Data:</strong></p>
-Turning qualitative data into a quantitative format. This might include automated coding of free text response items in a survey, or short interview transcripts.
-
+**Text-Based Data**: Turning qualitative data into a quantitative format. This might include automated coding of free text response items in a survey, or short interview transcripts.
 
 ## Fees
 
