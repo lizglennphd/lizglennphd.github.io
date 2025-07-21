@@ -1,11 +1,9 @@
 ---
 title: Consulting Services
-type: landing
 author: lizg
 reading_time: false
 share: false
 pager: false
-
 ---
 
 ## Data and Statistics Consulting Services
