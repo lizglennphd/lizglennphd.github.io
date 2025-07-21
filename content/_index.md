@@ -30,6 +30,19 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: cta-button-list
+    content:
+    title: Consulting Services
+      buttons:
+        - text: Partner with me on your next research project!
+          icon: hero/chart-bar
+          url: /consulting
+        - text: Watch my new YouTube video to achieve 20x productivity
+          icon: brands/youtube
+          url: https://youtube.com
+        - text: Connect with me on LinkedIn
+          icon: brands/linkedin
+          url: https://linkedin.com
   - block: hero
     content:
       title: Consulting Services
@@ -39,31 +52,14 @@ sections:
         url: /consulting
         icon: hero/chart-bar
   - block: resume-experience
-    content:
     id: experience
+    content:
       username: lizg
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
-    content:
-      title: Technical Skills
-      username: lizg
-    design:
-      show_skill_percentage: false
-  - block: collection
-    content:
-    id: papers
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
 
 
 ---
