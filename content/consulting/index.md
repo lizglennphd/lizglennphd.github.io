@@ -8,7 +8,7 @@ pager: false
 
 ## Specialties
 
-I partner with academic researchers, graduate students, and small businesses to utilize data and advanced analytic techniques to explore questions related to risk and resiliency factors, longitudinal trends, intervention outcomes, and optimizing measurement systems.
+<p> I partner with academic researchers, graduate students, and small businesses to utilize data and advanced analytic techniques to explore questions related to risk and resiliency factors, longitudinal trends, intervention outcomes, and optimizing measurement systems.</p>
 
 My main programming language is R. R is open source which supports reproducability, a part of the open science movement. R also allows me to create pipelines from data cleaning to data analysis to re-run analyses in an efficient, seamless, and reproducible manner. <p> I am also familiar with other statistical software such as SPSS, SAS, and Mplus. </p>
 

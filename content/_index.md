@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -37,6 +37,34 @@ sections:
       primary_action:
         text: Learn more and Get Started
         url: /consulting
-        icon: chart-simple
+        icon: hero/chart-bar
+  - block: resume-experience
+    content:
+    id: experience
+      username: lizg
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Technical Skills
+      username: lizg
+    design:
+      show_skill_percentage: false
+  - block: collection
+    content:
+    id: papers
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+
+
 ---
 
