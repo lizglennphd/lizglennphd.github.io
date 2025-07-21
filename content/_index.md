@@ -30,26 +30,20 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: cta-button-list
-    content:
-      buttons:
-        - text: Partner with me on your next research project!
-          icon: hero/chart-bar
-          url: /consulting
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
   - block: hero
     content:
       title: Consulting Services
       text: Partner with me on your next research project! I partner with academic researchers, especially early career researchers, on behavioral and psychological scientific projects.
       primary_action:
-        text: Learn more and Get Started
+        text: Learn more and Get started
         url: /consulting
         icon: hero/chart-bar
+  - block: cta-button-list
+    content:
+      buttons:
+        - text: Partner with me on your next research project!
+          icon: hero/chart-bar
+          url: /consulting        
   - block: resume-experience
     id: experience
     content:
@@ -59,6 +53,17 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: collection
+    id: papers
+    content:
+      title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
 
 
 ---
