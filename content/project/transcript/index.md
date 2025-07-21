@@ -3,7 +3,6 @@ title: Transcript Processing
 date: 2025-07-21
 reading_time: false
 share: false
-pager: false
 authors:
   - Liz Glenn
 ---

@@ -6,49 +6,49 @@ share: false
 pager: false
 ---
 
-## Specialties
+<p>I partner with academic researchers, graduate students, and small businesses to utilize data and advanced analytic techniques to explore questions related to risk and resiliency factors, longitudinal trends, intervention outcomes, and optimizing measurement systems.</p>
 
-<p> I partner with academic researchers, graduate students, and small businesses to utilize data and advanced analytic techniques to explore questions related to risk and resiliency factors, longitudinal trends, intervention outcomes, and optimizing measurement systems.</p>
+My main programming language is **R**. R is open source, which supports **reproducibility** a key principle of the open science movement. It allows me to create pipelines from data cleaning to analysis, enabling analyses to be re-run in an efficient, seamless, and reproducible manner.  
 
-My main programming language is R. R is open source which supports reproducability, a part of the open science movement. R also allows me to create pipelines from data cleaning to data analysis to re-run analyses in an efficient, seamless, and reproducible manner. <p> I am also familiar with other statistical software such as SPSS, SAS, and Mplus. </p>
+<p>I am also familiar with other statistical software, such as SPSS, SAS, and Mplus.</p>
 
 ### Advanced Statistical Analyses
 
 I am familiar with a range of statistical techniques to answer empirical research questions, including:
 
-- **Structural Equation Modelling (SEM)**: How do certain behaviora, psychological, or physiological factors influence each other? This approach includes mediation and moderation models. With SEM, we can also use latent variable modelling to increase precision of our findings. 
-- **Latent Variable Modelling**: How do individual data sources represent or measure larger theoretical concepts (latent variables)? Latent Variable Modelling includes Confirmatory Factor Analysis (CFA), meaning we are testing if certain items may represent subcategories, or subscales of an overall measure.
-- **Latent Growth Modelling (Longitudinal Data)**: Are there changes in these variables over time? Do certain variables or interventions impact change?
-- **Latent Profile Analysis**: Within this population, are there distinct groups based on certain characteristics (variables)?
-- **Meta-Analysis**: How does a relationship between two variables, including an intervention and various outcomes, vary across research studies? How robust is this relationship?
+- **Structural Equation Modeling (SEM)**: How do certain behavioral, psychological, or physiological factors influence each other? This approach includes mediation and moderation models. SEM also allows for latent variable modeling to increase the precision of our findings. [Example](./INSAR2023.pdf)
+- **Latent Variable Modeling**: How do individual data sources represent or measure broader theoretical concepts (latent variables)? This includes Confirmatory Factor Analysis (CFA), which tests whether specific items represent subcategories or subscales of an overall measure. [Example](./INSAR2023.pdf)
+- **Latent Growth Modeling (Longitudinal Data)**: Are there changes in these variables over time? Do certain variables or interventions influence change?
+- **Latent Profile Analysis**: Are there distinct subgroups within this population based on specific characteristics (variables)?
+- **Meta-Analysis**: How does the relationship between two variables—such as an intervention and an outcome—vary across studies? How robust is this relationship?
 
-<p> Many of the following approaches are based on regression modelling, which is relies on certain types of data. I am also familiar with techniques for non-normally distributed or non-continuous data (for example, logistic regression). I often consult with researchers to ensure research questions are compatible with data, whether pre or post data collection. </p>
+<p>Many of these approaches are based on regression modeling, which relies on certain types of data. I am also experienced with techniques for non-normally distributed or non-continuous data (e.g., logistic regression). I often consult with researchers to ensure their research questions align with the data—either before or after data collection.</p>
 
-**Other specialities:**
-- Reliability Statistics (Kappa, ICC, Chronbach's alpha)
-- Odds Ratios, Risk Ratios
-- Specificity / Sensitivity Analyses (AUC/ROC)
+**Other specialties:**
+- Reliability statistics (Kappa, ICC, Cronbach's alpha)
+- Odds ratios, risk ratios
+- Specificity / sensitivity analyses (AUC/ROC)
 
 ### Data Science
 
-**Data Visualization**: Bringing data to life using graphics. There are many pre-existing packages built in R that maximize visual insights specific to the data type or analysis. I can adjust color schemes and font to match your institution or business branding.
+- **Data Visualization**: Bringing data to life using graphics. R has many pre-existing packages that maximize visual insights tailored to the data type or analysis. I can also customize color schemes and fonts to match your institution or brand. [Example](/INSAR2022.pdf)
 
-**Data Cleaning**: Converting data from data collection into variables that are useful in analyses.
+- **Data Cleaning**: Converting raw data into usable variables for analysis.
 
-**Data Missingness**: There are many approaches to data missingness, which is often dependent on your data and analytic plan. I am familiar with a range of imputation methods to help create full datasets when needed, or the use of analytic approaches that account for missingness (FIML).
+- **Missing Data**: There are many approaches to dealing with missing data, depending on your dataset and analytic plan. I am familiar with a range of imputation methods and analytic approaches that account for missingness (e.g., FIML).
 
-**Webscraping**: Extracting data from online sointo a spreadsheet that can be used for decision making, data visualizations, or data analyses.
+- **Web Scraping**: Extracting data from webpages into a spreadsheet for decision-making, visualization, or analysis. [Example](./project/appic/)
 
-**Text-Based Data**: Turning qualitative data into a quantitative format. This might include automated coding of free text response items in a survey, or short interview transcripts.
+**Text-Based Data**: Converting qualitative data into a quantitative format. This may include automated coding of free-text responses from surveys or short interview transcripts. [Example](./project/transcript/)
 
 ## Fees
 
-- Hourly Rate = $75/hr
-- **Discounted rate** available for **graduate students** and **early career** researchers ($50/hr).
-- Data Analysis projects resulting in a full manuscript usually take around 20 hours.
-- Once a manuscript is submitted, I will not charge for minor edits during the revision process.
-- Payment: I can accept checks or online payment (3% processing fee).
+- Hourly rate: **$75/hr**
+- **Discounted rate** available for **graduate students** and **early career researchers**: **$50/hr**
+- Full data analysis projects that result in a manuscript typically take about **20 hours**
+- Once a manuscript is submitted, I do not charge for **minor edits** during the revision process
+- Payment options: **Check** or **online payment** (3% processing fee)
 
-## Let's get started
+## Let's Get Started
 
-Have an idea or project you'd like to collaborate on? [Email me :email:](mailto:lizglennphd@gmail.com) to set up a free 30 minute consultation.
+Have an idea or project you'd like to collaborate on? [Email me 📧](mailto:lizglennphd@gmail.com) to set up a **free 30-minute consultation**.

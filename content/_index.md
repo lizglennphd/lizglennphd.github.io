@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2025-06-25
+date: 2025-07-21
 type: landing
 
 design:
@@ -33,7 +33,7 @@ sections:
   - block: hero
     content:
       title: Consulting Services
-      text: Partner with me on your next research project! I collaborate with academic researchers, especially early career researchers, on behavioral and psychological scientific projects. My consultating services offer support with study design, methods, data formatting, statistical analysis, and publication.
+      text: Partner with me on your next research project! I collaborate with academic researchers, especially early career researchers, on behavioral and psychological scientific projects. My consulting services offer support with study design, methods, data formatting, statistical analysis, and publication.
       primary_action:
         text: Learn more | Get started
         url: /consulting
@@ -51,7 +51,7 @@ sections:
     id: papers
     content:
       title: Publications
-      text: Full text articles can be found on my [Research Gate](https://www.researchgate.net/profile/Elizabeth-Glenn-2) account. 
+      text: Full text articles can be found on my [<u>Research Gate</u>](https://www.researchgate.net/profile/Elizabeth-Glenn-2) account. 
       filters:
         folders:
           - publication

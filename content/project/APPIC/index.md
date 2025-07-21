@@ -3,7 +3,6 @@ title: APPIC Directory Spreadsheet
 date: 2025-07-01
 reading_time: false
 share: false
-pager: false
 authors:
   - Liz Glenn
 ---
