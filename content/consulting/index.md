@@ -31,15 +31,15 @@ I am familiar with a range of statistical techniques to answer empirical researc
 
 ### Data Science
 
-- **Data Visualization**: Bringing data to life using graphics. R has many pre-existing packages that maximize visual insights tailored to the data type or analysis. I can also customize color schemes and fonts to match your institution or brand. [Example](/INSAR2022.pdf)
+- **Data Visualization**: Bringing data to life using graphics. R has many pre-existing packages that maximize visual insights tailored to the data type or analysis. I can also customize color schemes and fonts to match your institution or brand. [Example](./INSAR2022.pdf)
 
 - **Data Cleaning**: Converting raw data into usable variables for analysis.
 
 - **Missing Data**: There are many approaches to dealing with missing data, depending on your dataset and analytic plan. I am familiar with a range of imputation methods and analytic approaches that account for missingness (e.g., FIML).
 
-- **Web Scraping**: Extracting data from webpages into a spreadsheet for decision-making, visualization, or analysis. [Example](./project/appic/)
+- **Web Scraping**: Extracting data from webpages into a spreadsheet for decision-making, visualization, or analysis. [Example](/project/appic/)
 
-- **Text-Based Data**: Converting qualitative data into a quantitative format. This may include automated coding of free-text responses from surveys or short interview transcripts. [Example](./project/transcript/)
+- **Text-Based Data**: Converting qualitative data into a quantitative format. This may include automated coding of free-text responses from surveys or short interview transcripts. [Example](/project/transcript/)
 
 ## Fees
 
