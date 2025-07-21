@@ -33,17 +33,11 @@ sections:
   - block: hero
     content:
       title: Consulting Services
-      text: Partner with me on your next research project! I partner with academic researchers, especially early career researchers, on behavioral and psychological scientific projects.
+      text: Partner with me on your next research project! I collaborate with academic researchers, especially early career researchers, on behavioral and psychological scientific projects, offering support with study design, methods, analysis, and publication.
       primary_action:
-        text: Learn more and Get started
+        text: Learn more | Get started
         url: /consulting
         icon: hero/chart-bar
-  - block: cta-button-list
-    content:
-      buttons:
-        - text: Partner with me on your next research project!
-          icon: hero/chart-bar
-          url: /consulting        
   - block: resume-experience
     id: experience
     content:
@@ -57,7 +51,7 @@ sections:
     id: papers
     content:
       title: Publications
-      text: ""
+      text: "Full Text can be found on my [Research Gate](https://www.researchgate.net/profile/Elizabeth-Glenn-2) account"
       filters:
         folders:
           - publication
