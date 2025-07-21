@@ -32,7 +32,6 @@ sections:
           parallax: false
   - block: cta-button-list
     content:
-    title: Consulting Services
       buttons:
         - text: Partner with me on your next research project!
           icon: hero/chart-bar
