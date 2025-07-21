@@ -30,4 +30,23 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: hero
+    content:
+      title: Consulting Services
+      text: Build your site with blocks 🧱
+      primary_action:
+        text: Get Started
+        url: 
+        icon: sparkles
+      secondary_action:
+        text: Read the docs
+        url: https://example.com
+      announcement:
+        text: Announcing the release of version 1.
+        link:
+          text: Read more
+          url: https://example.com
+---
+
+
 ---
