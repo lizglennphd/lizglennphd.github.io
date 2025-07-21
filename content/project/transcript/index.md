@@ -7,4 +7,4 @@ authors:
 
 This code will process .vtt formatted files (output of Zoom transcription files), into paragraph form .txt files. Files can easily be uploaded to programs like dedoose and nvivo for qualitative coding.
 
-[Download Transcript Processing Files](/Transcript%20Processing.zip)
+<a href="./Transcript%20Processing.zip" download> :inbox_tray: Download Transcript Processing Files</a>
