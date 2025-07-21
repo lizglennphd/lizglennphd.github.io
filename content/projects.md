@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: R Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: I've developed a few R based programs that can be used by researchers, clinicians and graduate students. 
       filters:
         folders:
           - project
