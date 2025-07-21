@@ -33,20 +33,10 @@ sections:
   - block: hero
     content:
       title: Consulting Services
-      text: Build your site with blocks 🧱
+      text: Partner with Me 
       primary_action:
         text: Get Started
-        url: 
-        icon: sparkles
-      secondary_action:
-        text: Read the docs
-        url: https://example.com
-      announcement:
-        text: Announcing the release of version 1.
-        link:
-          text: Read more
-          url: https://example.com
+        url: /consulting
+        icon: bar_chart
 ---
 
-
----
