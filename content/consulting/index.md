@@ -6,7 +6,7 @@ share: false
 pager: false
 ---
 
-<p>I partner with academic researchers, graduate students, and small businesses to utilize data and advanced analytic techniques to explore questions related to risk and resiliency factors, longitudinal trends, intervention outcomes, and optimizing measurement systems.</p>
+<p>I partner with academic researchers to utilize data and advanced analytic techniques to identify and evaluate risk and resiliency factors, longitudinal trends, intervention outcomes, and optimize measurement systems.</p>
 
 My main programming language is **R**. R is open source, which supports **reproducibility** a key principle of the open science movement. It allows me to create pipelines from data cleaning to analysis, enabling analyses to be re-run in an efficient, seamless, and reproducible manner.  
 
@@ -20,9 +20,9 @@ I am familiar with a range of statistical techniques to answer empirical researc
 - **Latent Variable Modeling**: How do individual data sources represent or measure broader theoretical concepts (latent variables)? This includes Confirmatory Factor Analysis (CFA), which tests whether specific items represent subcategories or subscales of an overall measure. [Example](./INSAR2023.pdf)
 - **Latent Growth Modeling (Longitudinal Data)**: Are there changes in these variables over time? Do certain variables or interventions influence change?
 - **Latent Profile Analysis**: Are there distinct subgroups within this population based on specific characteristics (variables)?
-- **Meta-Analysis**: How does the relationship between two variables—such as an intervention and an outcome—vary across studies? How robust is this relationship?
+- **Meta-Analysis**: How does the relationship between two variables, such as an intervention and an outcome, vary across studies? How robust is this relationship?
 
-<p>Many of these approaches are based on regression modeling, which relies on certain types of data. I am also experienced with techniques for non-normally distributed or non-continuous data (e.g., logistic regression). I often consult with researchers to ensure their research questions align with the data—either before or after data collection.</p>
+<p>Many of these approaches are based on regression modeling, which relies on certain types of data. I am also experienced with techniques for non-normally distributed or non-continuous data (e.g., logistic regression). I often consult with researchers to ensure their research questions align with the data, either before or after data collection.</p>
 
 **Other specialties:**
 - Reliability statistics (Kappa, ICC, Cronbach's alpha)
@@ -39,7 +39,7 @@ I am familiar with a range of statistical techniques to answer empirical researc
 
 - **Web Scraping**: Extracting data from webpages into a spreadsheet for decision-making, visualization, or analysis. [Example](./project/appic/)
 
-**Text-Based Data**: Converting qualitative data into a quantitative format. This may include automated coding of free-text responses from surveys or short interview transcripts. [Example](./project/transcript/)
+- **Text-Based Data**: Converting qualitative data into a quantitative format. This may include automated coding of free-text responses from surveys or short interview transcripts. [Example](./project/transcript/)
 
 ## Fees
 
