@@ -59,7 +59,7 @@ Turning qualitative data into a quantitative format. This might include automate
 - **Discounted rate** available for **graduate students** and **early career** researchers ($50/hr).
 - Data Analysis projects resulting in a full manuscript usually take around 20 hours.
 - Once a manuscript is submitted, I will not charge for minor edits during the revision process.
-- I can accept checks or online payment (3% processing fee).
+- Payment: I can accept checks or online payment (3% processing fee).
 
 ## Let's get started
 
