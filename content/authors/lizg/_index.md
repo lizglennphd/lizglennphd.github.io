@@ -66,14 +66,18 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: R - Data Science
+      - name: Data Science - R/tidyverse
         description: ''
         percent: 100
         icon: code-bracket
-      - name: R - Statistics
+      - name: Statistics - R
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: devicon/rstudio
+      - name: Statistics - SPSS
+        description: ''
+        percent: 100
+        icon: devicon/spss
       - name: Clinical Trials
         description: ''
         percent: 75

@@ -31,9 +31,11 @@ I am familiar with a range of statistical techniques to answer empirical researc
 
 ### Data Science
 
+Let me build tools to help automate your data pipelines, clean data that has been collected, combine complex data-sets, or integrate online information into your data. 
+
 - **Data Visualization**: Bringing data to life using graphics. R has many pre-existing packages that maximize visual insights tailored to the data type or analysis. I can also customize color schemes and fonts to match your institution or brand. [Example 🖼️](./INSAR2022.pdf)
 
-- **Data Cleaning**: Converting raw data into usable variables for analysis.
+- **Data Cleaning**: Converting raw data into usable variables for analysis. This can also include converting data types (for example, using timestamps to categorize data into phases of a clinical trial, even with multiple cohorts with different start dates) into a more useable format.
 
 - **Missing Data**: There are many approaches to dealing with missing data, depending on your dataset and analytic plan. I am familiar with a range of imputation methods and analytic approaches that account for missingness (e.g., FIML).
 
@@ -41,12 +43,17 @@ I am familiar with a range of statistical techniques to answer empirical researc
 
 - **Text-Based Data**: Converting qualitative data into a quantitative format. This may include automated coding of free-text responses from surveys or short interview transcripts. [Example 🔗](/project/transcript/)
 
+### Clinical Trials
+
+Due to my shared background in quantitative methods and clinical practice, I can provide support for implementing clinical trials, to help maximize data collection efforts and findings. This can include grant writing to implementing data monitoring and quality assurance systems during the trial, to building data cleaning pipelines so that you can analyze your data as soon as it is collected. I have worked with a broad population range, from preschool to adulthood, including data collection with non-speaking individuals and/or individuals with cognitive disabilities. I am familiar with a range of data collection methods, and have supported both data collection and processing of: MRI (structural), eye-gaze tracking (EGT), Ecological Momentary Assessment (EMA), standardized cognitive/academic/social-emotional assessments, observational coding, self-report, parent-report, qualitative interviews.
+
 ## Fees
 
-- Hourly rate: **$75/hr**
+- Hourly rate (Associate Prof+): **$75/hr**
 - **Discounted rate** available for **graduate students** and **early career researchers**: **$50/hr**
 - Full data analysis projects that result in a manuscript typically take about **20 hours**
-- Once a manuscript is submitted, I do not charge for **minor edits** during the revision process
+- Once a manuscript is submitted, I do not charge for minor edits during the revision process.
+- I currently have capacity for up to 10hrs/wk for projects.
 - Payment options: **Check** or **online payment** (3% processing fee)
 
 ## Let's Get Started
