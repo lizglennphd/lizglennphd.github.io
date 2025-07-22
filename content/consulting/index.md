@@ -28,6 +28,7 @@ I am familiar with a range of statistical techniques to answer empirical researc
 - Reliability statistics (Kappa, ICC, Cronbach's alpha)
 - Odds ratios, risk ratios
 - Specificity / sensitivity analyses (AUC/ROC)
+- Power analyses
 
 ### Data Science
 
@@ -59,10 +60,10 @@ Due to my shared background in quantitative methods and clinical practice, I can
     - Standardized cognitive, academic, and social-emotional assessments
     - Self-report and parent-report measures
     - Qualitative interviews
-    
+
 ## Fees
 
-- Hourly rate (Associate Prof+): **$75/hr**
+- Hourly rate: **$75/hr**
 - **Discounted rate** available for **graduate students** and **early career researchers**: **$50/hr**
 - Full data analysis projects that result in a manuscript typically take about **20 hours**
 - Once a manuscript is submitted, I do not charge for minor edits during the revision process.
