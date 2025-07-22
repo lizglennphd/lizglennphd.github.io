@@ -67,7 +67,7 @@ Due to my shared background in quantitative methods and clinical practice, I can
 - **Discounted rate** available for **graduate students** and **early career researchers**: **$50/hr**
 - Full data analysis projects that result in a manuscript typically take about **20 hours**
 - Once a manuscript is submitted, I do not charge for minor edits during the revision process.
-- I currently have capacity for up to 10hrs/wk for projects.
+- I currently have capacity for up to **10 hours / week** for projects. Projects that require additional time will be considered with advanced notice.
 - Payment options: **Check** or **online payment** (3% processing fee)
 
 ## Let's Get Started
