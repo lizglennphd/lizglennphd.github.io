@@ -45,8 +45,21 @@ Let me build tools to help automate your data pipelines, clean data that has bee
 
 ### Clinical Trials
 
-Due to my shared background in quantitative methods and clinical practice, I can provide support for implementing clinical trials, to help maximize data collection efforts and findings. This can include grant writing to implementing data monitoring and quality assurance systems during the trial, to building data cleaning pipelines so that you can analyze your data as soon as it is collected. I have worked with a broad population range, from preschool to adulthood, including data collection with non-speaking individuals and/or individuals with cognitive disabilities. I am familiar with a range of data collection methods, and have supported both data collection and processing of: MRI (structural), eye-gaze tracking (EGT), Ecological Momentary Assessment (EMA), standardized cognitive/academic/social-emotional assessments, observational coding, self-report, parent-report, qualitative interviews.
+Due to my shared background in quantitative methods and clinical practice, I can provide support for implementing clinical trials, to help maximize data collection efforts and findings.
 
+- Support across all phases of clinical trial implementation
+    - Grant writing and study design
+    - Set-up and maintenance of data monitoring and quality assurance systems
+    - Building data cleaning pipelines for real-time analysis
+- Experience with a range of clinical populations across the lifespan, including non-speaking individuals, individuals with cognitive disabilities, and families.
+- Familiarity with diverse data collection methods
+    - Biometric Data: Structural MRI, Eye-gaze tracking (EGT), electroencephalography (EEG)
+    - Ecological Momentary Assessment (EMA)
+    - Observational coding
+    - Standardized cognitive, academic, and social-emotional assessments
+    - Self-report and parent-report measures
+    - Qualitative interviews
+    
 ## Fees
 
 - Hourly rate (Associate Prof+): **$75/hr**
