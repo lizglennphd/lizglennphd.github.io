@@ -32,10 +32,9 @@ profiles:
     url: https://www.researchgate.net/profile/Elizabeth_Glenn4
 
 interests:
-- Data Science and Measurement
+- Measurement and Psychometrics
+- Neurodevelopmental Disabilities 
 - Emotion Regulation and Anxiety
-- Parent Mediated Interventions
-- Neurodevelopmental Disabilities
 
 education:
   - area: PhD School Psychology
