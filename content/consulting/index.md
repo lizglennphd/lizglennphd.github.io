@@ -16,7 +16,7 @@ My main programming language is **R**. R is open source, which supports **reprod
 
 I am familiar with a range of statistical techniques to answer empirical research questions, including:
 
-- **Structural Equation Modeling (SEM)**: How do certain behavioral, psychological, or physiological factors influence each other? This approach includes mediation and moderation models. SEM also allows for latent variable modeling to increase the precision of our findings. [Example 🖼️](./INSAR2023.pdf)
+- **Structural Equation Modeling (SEM)**: How do certain behavioral, psychological, or physiological factors influence each other? This approach includes mediation and moderation models. SEM also allows for latent variable modeling to increase the precision of our findings. [Paper Example 📃](https://doi.org/10.1037/lat0000320) | [Poster Example 🖼️](./INSAR2023.pdf)
 - **Latent Variable Modeling**: How do individual data sources represent or measure broader theoretical concepts (latent variables)? This includes Confirmatory Factor Analysis (CFA), which tests whether specific items represent subcategories or subscales of an overall measure. [Example 🖼️](./INSAR2023.pdf)
 - **Latent Growth Modeling (Longitudinal Data)**: Are there changes in these variables over time? Do certain variables or interventions influence change?
 - **Latent Profile Analysis**: Are there distinct subgroups within this population based on specific characteristics (variables)?
@@ -62,9 +62,8 @@ Due to my shared background in quantitative methods and clinical practice, I can
     - Qualitative interviews
 
 ## Fees
-
-- Hourly rate: **$75/hr**
-- **Discounted rate** available for **graduate students** and **early career researchers**: **$50/hr**
+ - Schedule a **free** consultation call to discuss rates and project estimates.
+- **Discounted rate** available for **graduate students** and **early career** researchers
 - Full data analysis projects that result in a manuscript typically take about **20 hours**
 - Once a manuscript is submitted, I do not charge for minor edits during the revision process.
 - I currently have capacity for up to **10 hours / week** for projects. Projects that require additional time will be considered with advanced notice.
