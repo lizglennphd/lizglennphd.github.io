@@ -1,6 +1,6 @@
 ---
 title: Transcript Processing
-date: 2025-07-21
+date: 2025-07-30
 reading_time: false
 share: false
 authors:

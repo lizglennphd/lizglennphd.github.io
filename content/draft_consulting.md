@@ -43,11 +43,10 @@ sections:
     content:
       title: Fees
       text: |
-        - Hourly Rate = $75/hr
-        - **Discounted rate** available for **graduate students** and **early career** researchers ($50/hr).
-        - Data Analysis projects resulting in a full manuscript usually take around 20 hours.
+        - Schedule a *free* consultation call to discuss rates and project estimates.
+        - **Discounted rate** available for **graduate students** and **early career** researchers
+        - Data Analysis projects resulting in a full manuscript usually take around 20 - 30 hours.
         - Once a manuscript is submitted, I will not charge for minor edits during the revision process.
-        - I can accept checks or online payment (3% processing fee).
 
 
 ---
